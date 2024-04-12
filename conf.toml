@@ -1,0 +1,12 @@
+# Variaveis de Conexao do Database
+[postgresql]
+host = "localhost"
+user = "name_user"
+pass = "password_user"
+name = "name_database"
+
+[mysql]
+host = "localhost"
+user = "name_user"
+pass = "password_user"
+name = "name_database"
